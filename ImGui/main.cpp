@@ -85,8 +85,8 @@ int main(int, char*[]) {
   // io.ConfigFlags |= ImGuiConfigFlags_NavEnableGamepad;
 
   // カラーテーマ設定
-  // ImGui::StyleColorsDark();
-  ImGui::StyleColorsLight();
+  ImGui::StyleColorsDark();
+  // ImGui::StyleColorsLight();
   // ImGui::StyleColorsClassic();
 
   // レンダリングウィンドウのバインディング
